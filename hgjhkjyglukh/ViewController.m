@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"这是同一个版本，同一个工程里，间隔时间上传的第二个版本");
+    
+    NSLog(@"二次更新版本，缺失“这是同一个版本，同一个工程里，间隔时间上传的第二个版本”");
 }
 
 - (void)didReceiveMemoryWarning {
